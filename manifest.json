@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "nobelc.hdmiaudio",
+  "name": "Dynamic HDMI Audio Switcher",
+  "version": "1.0.0",
+  "author": "NobelC",
+  "description": "Event-driven HDMI audio profile switcher using udev and WirePlumber to eliminate race conditions.",
+  "kinds": ["script"],
+  "entryPoints": {
+    "install": "install.sh",
+    "uninstall": "uninstall.sh"
+  }
+}
