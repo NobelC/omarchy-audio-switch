@@ -4,10 +4,12 @@
   "name": "Dynamic HDMI Audio Switcher",
   "version": "1.0.0",
   "author": "NobelC",
+  "license": "MIT",
   "description": "Event-driven HDMI audio profile switcher using udev and WirePlumber to eliminate race conditions.",
-  "kinds": ["service"],
+  "kinds": [
+    "service"
+  ],
   "entryPoints": {
-    "install": "install.sh",
-    "uninstall": "uninstall.sh"
+    "service": "Service.qml"
   }
 }
