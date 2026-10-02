@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "NobelC",
   "license": "MIT",
-  "description": "Event-driven HDMI audio profile switcher using udev and WirePlumber to eliminate race conditions.",
+  "description": "Automatically switches sound between your laptop speakers and HDMI displays when you plug in or unplug an HDMI cable.",
   "kinds": [
     "service"
   ],
