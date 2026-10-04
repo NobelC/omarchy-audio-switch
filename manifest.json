@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "io.github.nobelc.audio-switch",
+  "id": "nobelc.hdmiaudio",
   "name": "Audio Switch Service",
   "version": "1.1.0",
-  "author": "Jeremy",
+  "author": "NobelC",
   "description": "Automatically switches sound between your laptop speakers and HDMI displays when you plug in or unplug an HDMI cable.",
   "license": "MIT",
   "kinds": ["service"],
