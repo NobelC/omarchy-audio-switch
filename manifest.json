@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "io.github.jeremy.audio-switch",
+  "id": "io.github.nobelc.audio-switch",
   "name": "Audio Switch Service",
   "version": "1.1.0",
   "author": "Jeremy",
