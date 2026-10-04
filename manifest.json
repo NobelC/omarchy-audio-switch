@@ -1,15 +1,14 @@
 {
   "schemaVersion": 1,
-  "id": "nobelc.hdmiaudio",
-  "name": "Dynamic HDMI Audio Switcher",
-  "version": "1.0.0",
-  "author": "NobelC",
-  "license": "MIT",
+  "id": "io.github.jeremy.audio-switch",
+  "name": "Audio Switch Service",
+  "version": "1.1.0",
+  "author": "Jeremy",
   "description": "Automatically switches sound between your laptop speakers and HDMI displays when you plug in or unplug an HDMI cable.",
-  "kinds": [
-    "service"
-  ],
+  "license": "MIT",
+  "kinds": ["service"],
   "entryPoints": {
     "service": "Service.qml"
-  }
+  },
+  "keepLoaded": true
 }
