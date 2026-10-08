@@ -26,14 +26,14 @@ To clone the plugin and inspect the code before enabling it:
 
 ```bash
 omarchy plugin add \
-  https://github.com/NobelC/omarchy-hdmi-audio.git
+  https://github.com/NobelC/omarchy-hdmi-switch.git
 ```
 
 To install and enable the plugin immediately:
 
 ```bash
 omarchy plugin add \
-  https://github.com/NobelC/omarchy-hdmi-audio.git \
+  https://github.com/NobelC/omarchy-hdmi-switch.git \
   --enable
 ```
 
